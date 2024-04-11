@@ -21,7 +21,7 @@ Before running the script, configure the following parameters:
 
 - `TELEGRAM_NOTIFY_ENABLED`: Enable/disable Telegram notifications.
 
-- `TG_CHAT_ID and TG_BOT_KEY`: Telegram chat ID and bot key for notifications.
+- `TG_CHAT_ID` and `TG_BOT_KEY`: Telegram chat ID and bot key for notifications.
 
 - `NODE_ID`: Identifier for the node being monitored.
 
@@ -63,3 +63,5 @@ Run the script in the background or as a service:
 
 - `curl`: For making HTTP requests to the node's RPC interface.
 - `jq`: For parsing JSON data from RPC responses.
+
+Made with ❤️ by RoobCat.
