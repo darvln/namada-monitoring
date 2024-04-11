@@ -64,4 +64,6 @@ Run the script in the background or as a service:
 - `curl`: For making HTTP requests to the node's RPC interface.
 - `jq`: For parsing JSON data from RPC responses.
 
+---
+
 Made with ❤️ by RoobCat.
