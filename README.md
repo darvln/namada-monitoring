@@ -1,4 +1,4 @@
-# Node Monitor and Notifier
+# 🟡 Namada: complex node monitoring and alerting
 
 A bash script that monitors the status of a Namada node and notifies via Telegram if issues are detected or actions are taken.
 
